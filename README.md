@@ -1,6 +1,8 @@
 ### Hey there! 👋
 
-I'm a PhD candidate at the University of Pisa, soon (March 2025) joining IBM Dublin Research Lab as a permanent researcher after two successful research internships at IBM. My work lies at the intersection of theoretical physics, statistics, and machine learning, with hands-on experience in large language models and computational biology. This space hosts both my personal projects and companion repositories for my research papers.
+I'm a Research Scientist at IBM Research Europe and a PhD candidate at the University of Pisa.
+I joined IBM Dublin Research Lab as a permanent researcher in March 2025 after two successful research internships at IBM. My work lies at the intersection of theoretical physics, statistics, and machine learning, with hands-on experience in large language models and computational biology.
+This space is linked to my research activity at IBM and also hosts both my personal projects and companion repositories for my research papers.
 
 #### 🔍 Looking to explore?
 - Browse my [Google Scholar profile](https://scholar.google.com/citations?user=hbCDbioAAAAJ&hl=en) to see if our research interests align
