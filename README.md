@@ -11,7 +11,7 @@ This space is linked to my research activity at IBM and also hosts both my perso
 - Personal small Website 🌐 [danielelotito.github.io/dl-codespace](https://danielelotito.github.io/dl-codespace/)
 
 #### 📫 Contact
-You can reach me at name.surname@phd.unipi.it (Note: This email will be deactivated soon)
+You can reach me either at  name.surname@ibm.com or at name.surname@phd.unipi.it (Note that the latter email address will be deactivated soon)
 
-Feel free to explore and reach out! [Google Scholar profile](https://scholar.google.com/citations?user=hbCDbioAAAAJ&hl=en).
+Feel free to explore and reach out! [Google Scholar profile](https://scholar.google.com/citations?user=hbCDbioAAAAJ&hl=en). I try to keep my [ORCID](https://orcid.org/my-orcid?orcid=0000-0003-0320-0043) updated as well.
 
