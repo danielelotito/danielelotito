@@ -2,7 +2,7 @@
 
 I'm a Research Scientist at IBM Research Europe.
 
-I joined IBM Dublin Research Lab as a permanent researcher in March 2025 after two research internships at IBM. I am interested in complex systems, statistics, and machine learning. I have hands-on experience in large language models and computational biology. 
+I joined IBM Dublin Research Lab as a permanent researcher in March 2025 after two research internships at IBM. I am interested in complex systems, statistics, and machine learning. 
 
 I have a Master in theoretical physics, I focused on statistical physics of complex networks.
 
